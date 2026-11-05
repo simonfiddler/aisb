@@ -1,0 +1,1360 @@
+{
+  "version": 2,
+  "suites": [
+    {
+      "id": "suite-01",
+      "number": "01",
+      "type": "Reels",
+      "partition": "partitions/Suite_01.png",
+      "tunes": [
+        {
+          "id": "ships-are-sailing",
+          "title": "Ships are Sailing",
+          "key": "",
+          "notes": "",
+          "audio": [
+            {
+              "file": "audio/01_01_Ships are Sailing Morceau Entier.mp3",
+              "label": "Version AISB"
+            }
+          ]
+        },
+        {
+          "id": "castle-kelly",
+          "title": "Castle Kelly",
+          "key": "",
+          "notes": "",
+          "audio": [
+            {
+              "file": "audio/01_02_Castle Kelly Morceau Entier.mp3",
+              "label": "Version AISB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suite-02",
+      "number": "02",
+      "type": "Jigs",
+      "partition": "partitions/Suite_02.png",
+      "tunes": [
+        {
+          "id": "tatter-jack-walsh",
+          "title": "Tatter Jack Walsh",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "garrett-barry-s",
+          "title": "Garrett Barry's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "cook-in-the-kitchen",
+          "title": "Cook in the Kitchen",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "pipe-on-the-hob",
+          "title": "Pipe on the Hob",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-03",
+      "number": "03",
+      "type": "Polkas",
+      "partition": "partitions/Suite_03.png",
+      "tunes": [
+        {
+          "id": "toormore-1",
+          "title": "Toormore 1",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "maid-of-ardagh",
+          "title": "Maid of Ardagh",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "john-egan-s",
+          "title": "John Egan's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-04",
+      "number": "04",
+      "type": "Reels",
+      "partition": "partitions/Suite_04.png",
+      "tunes": [
+        {
+          "id": "cooley-s",
+          "title": "Cooley's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "wise-maid",
+          "title": "Wise Maid",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-05",
+      "number": "05",
+      "type": "Jigs",
+      "partition": "partitions/Suite_05.png",
+      "tunes": [
+        {
+          "id": "my-darling-asleep",
+          "title": "My Darling Asleep",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "kesh-jig",
+          "title": "Kesh Jig",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "hag-at-the-churn",
+          "title": "Hag at the Churn",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-06",
+      "number": "06",
+      "type": "Hornpipes",
+      "partition": "partitions/Suite_06.png",
+      "tunes": [
+        {
+          "id": "right-of-man",
+          "title": "Right of Man",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "pride-of-petravore",
+          "title": "Pride of Petravore",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-07",
+      "number": "07",
+      "type": "Reels",
+      "partition": "partitions/Suite_07.png",
+      "tunes": [
+        {
+          "id": "pigeon-on-the-gate",
+          "title": "Pigeon on the Gate",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "golden-keyboard",
+          "title": "Golden Keyboard",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "sally-garden",
+          "title": "Sally Garden",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-08",
+      "number": "08",
+      "type": "Reels",
+      "partition": "partitions/Suite_08.png",
+      "tunes": [
+        {
+          "id": "father-kelly",
+          "title": "Father Kelly",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "green-fields-of-america",
+          "title": "Green Fields of America",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-09",
+      "number": "09",
+      "type": "Jigs",
+      "partition": "partitions/Suite_09.png",
+      "tunes": [
+        {
+          "id": "humours-of-glendart",
+          "title": "Humours of Glendart",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "out-on-the-ocean",
+          "title": "Out on the Ocean",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "will-you-come-home-with-me",
+          "title": "Will You Come Home With Me",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-10",
+      "number": "10",
+      "type": "Slip Jigs",
+      "partition": "partitions/Suite_10.png",
+      "tunes": [
+        {
+          "id": "kid-on-the-mountain",
+          "title": "Kid on the Mountain",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "fig-for-a-kiss",
+          "title": "Fig for a Kiss",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "butterfly",
+          "title": "Butterfly",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-11",
+      "number": "11",
+      "type": "Reels",
+      "partition": "partitions/Suite_11.png",
+      "tunes": [
+        {
+          "id": "old-bush",
+          "title": "Old Bush",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "bucks-of-oranmore",
+          "title": "Bucks of Oranmore",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-12",
+      "number": "12",
+      "type": "Jigs",
+      "partition": "partitions/Suite_12.png",
+      "tunes": [
+        {
+          "id": "donnybrook-fair",
+          "title": "Donnybrook Fair",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "connaughtman-s-ramble",
+          "title": "Connaughtman's Ramble",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "rose-in-the-heather",
+          "title": "Rose in the Heather",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-13",
+      "number": "13",
+      "type": "Slides",
+      "partition": "partitions/Suite_13.png",
+      "tunes": [
+        {
+          "id": "brosna-slide",
+          "title": "Brosna Slide",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "dan-o-keeffe-s",
+          "title": "Dan O'Keeffe's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-14",
+      "number": "14",
+      "type": "Reels",
+      "partition": "partitions/Suite_14.png",
+      "tunes": [
+        {
+          "id": "teatotaler-s",
+          "title": "Teatotaler's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "cup-of-tea",
+          "title": "Cup of Tea",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "drowsy-maggie",
+          "title": "Drowsy Maggie",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-15",
+      "number": "15",
+      "type": "Jigs",
+      "partition": "partitions/Suite_15.png",
+      "tunes": [
+        {
+          "id": "woodcock",
+          "title": "Woodcock",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "kerfunten",
+          "title": "Kerfunten",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "dusty-windowsills",
+          "title": "Dusty Windowsills",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-16",
+      "number": "16",
+      "type": "Hornpipes",
+      "partition": "partitions/Suite_16.png",
+      "tunes": [
+        {
+          "id": "bantry-bay",
+          "title": "Bantry Bay",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "o-mahoney-s",
+          "title": "O'Mahoney's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "liverpool",
+          "title": "Liverpool",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-17",
+      "number": "17",
+      "type": "Reels",
+      "partition": "partitions/Suite_17.png",
+      "tunes": [
+        {
+          "id": "new-copperplate",
+          "title": "New Copperplate",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "old-copperplate",
+          "title": "Old Copperplate",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "hunter-s-house",
+          "title": "Hunter's House",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-18",
+      "number": "18",
+      "type": "Reels",
+      "partition": "partitions/Suite_18.png",
+      "tunes": [
+        {
+          "id": "chicago-reel",
+          "title": "Chicago Reel",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "humours-of-tulla",
+          "title": "Humours of Tulla",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-19",
+      "number": "19",
+      "type": "Reels",
+      "partition": "partitions/Suite_19.png",
+      "tunes": [
+        {
+          "id": "boys-of-malin",
+          "title": "Boys of Malin",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "gravel-walk",
+          "title": "Gravel Walk",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-20",
+      "number": "20",
+      "type": "Jigs",
+      "partition": "partitions/Suite_20.png",
+      "tunes": [
+        {
+          "id": "slieve-russel",
+          "title": "Slieve Russel",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "jimmy-ward",
+          "title": "Jimmy Ward",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "the-butcher-s-fancy",
+          "title": "The Butcher's Fancy",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-21",
+      "number": "21",
+      "type": "Flings",
+      "partition": "partitions/Suite_21.png",
+      "tunes": [
+        {
+          "id": "keel-row-the",
+          "title": "Keel Row (The)",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "some-say-the-divil-s-dead",
+          "title": "Some Say the Divil's Dead",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "doon-the",
+          "title": "Doon (The)",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-22",
+      "number": "22",
+      "type": "Jigs",
+      "partition": "partitions/Suite_22.png",
+      "tunes": [
+        {
+          "id": "christy-barry",
+          "title": "Christy Barry",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "butlers-of-glen-avenue",
+          "title": "Butlers of Glen Avenue",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "killavil-jig",
+          "title": "Killavil Jig",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-23",
+      "number": "23",
+      "type": "Reels",
+      "partition": "partitions/Suite_23.png",
+      "tunes": [
+        {
+          "id": "walter-sammon-s-grandmother",
+          "title": "Walter Sammon's Grandmother",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "concertina",
+          "title": "Concertina",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "brendan-mac-mahon-s",
+          "title": "Brendan Mac Mahon's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-24",
+      "number": "24",
+      "type": "Reels",
+      "partition": "partitions/Suite_24.png",
+      "tunes": [
+        {
+          "id": "boy-in-the-gap",
+          "title": "Boy in the Gap",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "toss-the-feathers-1",
+          "title": "Toss the Feathers #1",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "toss-the-feathers-2",
+          "title": "Toss the Feathers #2",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "saint-anne-s-reel",
+          "title": "Saint Anne's Reel",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-25",
+      "number": "25",
+      "type": "Waltzes",
+      "partition": "partitions/Suite_25.png",
+      "tunes": [
+        {
+          "id": "new-land",
+          "title": "New Land",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "midnight-on-the-water",
+          "title": "Midnight on the Water",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-26",
+      "number": "26",
+      "type": "Polkas",
+      "partition": "partitions/Suite_26.png",
+      "tunes": [
+        {
+          "id": "charlie-harris",
+          "title": "Charlie Harris",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "finnish",
+          "title": "Finnish",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-27",
+      "number": "27",
+      "type": "Polkas",
+      "partition": "partitions/Suite_27.png",
+      "tunes": [
+        {
+          "id": "jessica-s-polka",
+          "title": "Jessica's Polka",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "on-those-britches-full-of-stitches",
+          "title": "On Those Britches Full of Stitches",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "bill-sullivan-s",
+          "title": "Bill Sullivan's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-28",
+      "number": "28",
+      "type": "Reels",
+      "partition": "partitions/Suite_28.png",
+      "tunes": [
+        {
+          "id": "cloone",
+          "title": "Cloone",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "boy-in-the-boat",
+          "title": "Boy in the Boat",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "john-dwyer-s",
+          "title": "John Dwyer's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-29",
+      "number": "29",
+      "type": "Reels",
+      "partition": "partitions/Suite_29.png",
+      "tunes": [
+        {
+          "id": "star-of-munster",
+          "title": "Star of Munster",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "maid-behind-the-bar",
+          "title": "Maid Behind the Bar",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-30",
+      "number": "30",
+      "type": "Reels",
+      "partition": "partitions/Suite_30.png",
+      "tunes": [
+        {
+          "id": "salamanca",
+          "title": "Salamanca",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "banshee",
+          "title": "Banshee",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "sailor-s-bonnet",
+          "title": "Sailor's Bonnet",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-31",
+      "number": "31",
+      "type": "Jigs",
+      "partition": "partitions/Suite_31.png",
+      "tunes": [
+        {
+          "id": "haste-to-the-wedding",
+          "title": "Haste to the Wedding",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "saddle-the-pony",
+          "title": "Saddle the Pony",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "father-o-flynn-s",
+          "title": "Father O'Flynn's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-32",
+      "number": "32",
+      "type": "Waltzes",
+      "partition": "partitions/Suite_32.png",
+      "tunes": [
+        {
+          "id": "elsey-s",
+          "title": "Elsey's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "17th-of-july",
+          "title": "17th of July",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-33",
+      "number": "33",
+      "type": "Reels",
+      "partition": "partitions/Suite_33.png",
+      "tunes": [
+        {
+          "id": "humours-of-ballyconnell",
+          "title": "Humours of Ballyconnell",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "drunken-landlady",
+          "title": "Drunken Landlady",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "turnpike-gate",
+          "title": "Turnpike Gate",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-34",
+      "number": "34",
+      "type": "Jigs",
+      "partition": "partitions/Suite_34.png",
+      "tunes": [
+        {
+          "id": "tom-billy-s-2",
+          "title": "Tom Billy's #2",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "monk-s",
+          "title": "Monk's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "tom-billy-s-1",
+          "title": "Tom Billy's #1",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-35",
+      "number": "35",
+      "type": "Reels",
+      "partition": "partitions/Suite_35.png",
+      "tunes": [
+        {
+          "id": "within-a-mile-of-dublin",
+          "title": "Within a Mile of Dublin",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "the-crooked-road-to-dublin",
+          "title": "The Crooked Road to Dublin",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "bird-in-the-bush",
+          "title": "Bird in the Bush",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-36",
+      "number": "36",
+      "type": "Jigs",
+      "partition": "partitions/Suite_36.png",
+      "tunes": [
+        {
+          "id": "old-joe-s-jig",
+          "title": "Old Joe's Jig",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "gold-ring",
+          "title": "Gold Ring",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-37",
+      "number": "37",
+      "type": "Reels",
+      "partition": "partitions/Suite_37.png",
+      "tunes": [
+        {
+          "id": "shaskeen",
+          "title": "Shaskeen",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "lady-ann-montgomery",
+          "title": "Lady Ann Montgomery",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "christmas-eve",
+          "title": "Christmas Eve",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-38",
+      "number": "38",
+      "type": "Polkas",
+      "partition": "partitions/Suite_38.png",
+      "tunes": [
+        {
+          "id": "gullane",
+          "title": "Gullane",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "mrs-crowley-s",
+          "title": "Mrs Crowley's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "jimmy-doyle",
+          "title": "Jimmy Doyle",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-39",
+      "number": "39",
+      "type": "Slip Jigs",
+      "partition": "partitions/Suite_39.png",
+      "tunes": [
+        {
+          "id": "swaggering",
+          "title": "Swaggering",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "foxhunter-s",
+          "title": "Foxhunter's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "boys-of-ballysodare",
+          "title": "Boys of Ballysodare",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-40",
+      "number": "40",
+      "type": "Slides",
+      "partition": "partitions/Suite_40.png",
+      "tunes": [
+        {
+          "id": "old-favourite",
+          "title": "Old Favourite",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "michael-russell-s",
+          "title": "Michael Russell's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "eileen-ni-riordains",
+          "title": "Eileen Ni Riordains",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-41",
+      "number": "41",
+      "type": "Hornpipes",
+      "partition": "partitions/Suite_41.png",
+      "tunes": [
+        {
+          "id": "boys-of-bluehill",
+          "title": "Boys of Bluehill",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "harvest-home",
+          "title": "Harvest Home",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-42",
+      "number": "42",
+      "type": "Inconnu",
+      "partition": "partitions/Suite_42.png",
+      "tunes": [
+        {
+          "id": "tim-mahoney-s",
+          "title": "Tim Mahoney's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "bag-of-spuds",
+          "title": "Bag of Spuds",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "red-haired-lass",
+          "title": "Red Haired Lass",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-43",
+      "number": "43",
+      "type": "Hornpipes",
+      "partition": "partitions/Suite_43.png",
+      "tunes": [
+        {
+          "id": "boys-of-ballycastle",
+          "title": "Boys of Ballycastle",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "stack-of-barley",
+          "title": "Stack of Barley",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "stack-of-rye",
+          "title": "Stack of Rye",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-44",
+      "number": "44",
+      "type": "Jigs",
+      "partition": "partitions/Suite_44.png",
+      "tunes": [
+        {
+          "id": "miller-s-maggot",
+          "title": "Miller's Maggot",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "i-was-born-for-sport",
+          "title": "I Was Born for Sport",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "anthony-frawley-s",
+          "title": "Anthony Frawley's",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-45",
+      "number": "45",
+      "type": "Reels",
+      "partition": "partitions/Suite_45.png",
+      "tunes": [
+        {
+          "id": "humours-of-castlefin",
+          "title": "Humours of Castlefin",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "glen-of-aherlow",
+          "title": "Glen of Aherlow",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "killarney-boys-of-pleasure",
+          "title": "Killarney Boys of Pleasure",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-46",
+      "number": "46",
+      "type": "Inconnu",
+      "partition": "partitions/Suite_46.png",
+      "tunes": [
+        {
+          "id": "king-of-fairies",
+          "title": "King of Fairies",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "gypsy-princess",
+          "title": "Gypsy Princess",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-47",
+      "number": "47",
+      "type": "Jigs",
+      "partition": "partitions/Suite_47.png",
+      "tunes": [
+        {
+          "id": "the-swallow-s-tail",
+          "title": "The Swallow's Tail",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "road-to-sligo",
+          "title": "Road to Sligo",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "tripping-up-the-stairs",
+          "title": "Tripping Up the Stairs",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-48",
+      "number": "48",
+      "type": "Reels",
+      "partition": "partitions/Suite_48.png",
+      "tunes": [
+        {
+          "id": "sporting-paddy",
+          "title": "Sporting Paddy",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "jolly-tinker",
+          "title": "Jolly Tinker",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-49",
+      "number": "49",
+      "type": "Inconnu",
+      "partition": "partitions/Suite_49.png",
+      "tunes": [
+        {
+          "id": "life-is-all-checkered",
+          "title": "Life Is All Checkered",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "lark-s-march",
+          "title": "Lark's March",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    },
+    {
+      "id": "suite-50",
+      "number": "50",
+      "type": "Inconnu",
+      "partition": "partitions/Suite_50.png",
+      "tunes": [
+        {
+          "id": "sangshyttevalsen",
+          "title": "Sangshyttevalsen",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "far-away",
+          "title": "Far Away",
+          "key": "",
+          "notes": "",
+          "audio": []
+        },
+        {
+          "id": "sangshyttevalsen",
+          "title": "Sangshyttevalsen",
+          "key": "",
+          "notes": "",
+          "audio": []
+        }
+      ]
+    }
+  ]
+}
